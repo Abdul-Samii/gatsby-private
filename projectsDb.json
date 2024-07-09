@@ -1,0 +1,1378 @@
+{
+  "projects": [
+    {
+      "links": {
+        "twitter": "IxSwap",
+        "discord": "",
+        "telegram": "ixswapofficial",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCaYPNR-eLs9iuB5ZVKRx-fw",
+        "playstore": ""
+      },
+      "_id": "66810503648b945958af5941",
+      "name": "IX Swap",
+      "tldr": "Leveraging blockchain technology, IX Swap aims to bridge the gap between traditional finance and the emerging digital economy, enhancing market accessibility, transparency, and efficiency.",
+      "overview": "IX Swap is transforming the landscape of security token offerings (STOs) and decentralized finance (DeFi) by providing a platform that facilitates the trading and liquidity of tokenized securities. By leveraging blockchain technology, IX Swap aims to bridge the gap between traditional finance and the emerging digital economy, enhancing market accessibility, transparency, and efficiency.\n\n**How Does IX Swap Work?**\n\nIX Swap offers a comprehensive framework for the trading and liquidity provision of security tokens, ensuring these digital assets can be traded seamlessly and securely. Key services include:\n\n- **Automated Market Making (AMM):** Facilitates liquidity for security tokens through decentralized liquidity pools, enabling continuous and efficient trading without the need for traditional intermediaries.\n- **Custodial Solutions:** Provides secure and compliant custody services for security tokens, ensuring regulatory adherence and protection of investors’ assets.\n- **Regulated Exchange Integration:** Connects with regulated exchanges to offer compliant trading of security tokens, bridging the gap between traditional finance and the blockchain ecosystem.\n\n**IX Swap for Investors**\n\nInvestors benefit from increased liquidity and transparency in the security token market. The platform enables global access to security tokens, allowing for fractional ownership and participation in a broader range of investment opportunities. This democratizes investment access and provides new avenues for portfolio diversification.\n\n**IX Swap for Issuers**\n\nSecurity token issuers can leverage IX Swap’s platform to enhance the liquidity and tradability of their tokenized assets. This reduces reliance on traditional financial intermediaries, streamlines the issuance process, and lowers operational costs. Examples include tokenized real estate projects and corporate bonds that can be traded on IX Swap’s platform.\n\n**IX Swap for DeFi and Financial Institutions**\n\nIX Swap supports the integration of security tokens into DeFi protocols, enabling innovative financial products and services. By providing liquidity and trading solutions for security tokens, IX Swap fosters the growth of a more inclusive and efficient financial ecosystem.\n\n**About IX Swap**\n\nIX Swap’s suite of services, including automated market making, custodial solutions, and regulated exchange integration, positions it as a pivotal player in the security token ecosystem. By leveraging these tools, IX Swap facilitates the seamless integration of security tokens into the blockchain landscape, driving innovation and growth in both DeFi and traditional financial markets.\n\nFor more detailed information, you can explore IX Swap’s official website and their comprehensive resources on security token trading and liquidity solutions.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719731467477?alt=media&token=df9a64fd-3c94-4887-8437-56f6958ae179",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719731498204?alt=media&token=64ce59df-d9db-4e3e-83c3-8ab1f8d6eeda",
+      "upvotes": 0,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "StoboxCompany",
+        "discord": "FVzSNwmQzk",
+        "telegram": "stobox_community",
+        "linkedin": "stobox",
+        "facebook": "stoboxforbusiness",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCMKnSJ4dkf0V1QLx5Bo2QTw",
+        "playstore": ""
+      },
+      "_id": "667c0600b22d114333320927",
+      "name": "Stobox",
+      "tldr": "Turn-key tokenization ecosystem that brings RWA on-chain.\nWe help companies from across the globe tokenize assets like real estate, company shares, mining facilities and much more. ",
+      "overview": "Stobox is an award-winning tokenization company that provides technology and consulting to help clients leverage digital assets and tokenized securities.\n\nIt means we help companies tokenize their assets (real estate, company shares, mining facilities, etc.). We provide legal advice and technology to put their assets onto the blockchain and secondary market. We tokenized our company’s shares before we offered our service to other companies.\n\nWith a highly skilled team of over 35 employees and 6 years of experience, Stobox has successfully managed more than 60 complex client requests and developed innovative blockchain products designed to streamline the Security Token Offering (STO) process.\n\nOur mission is to make it easier than ever for businesses to embrace compliant crypto adoption and unlock new opportunities with Real World Assets. Discover how Stobox is shaping the future of asset tokenization and Web3 software solutions through our comprehensive ecosystem.\n\nStobox presents a comprehensive ecosystem consisting of interconnected blockchain-based products designed to facilitate the issuance, management, and secondary trading of compliant, regulated digital assets. By integrating compliance procedures directly onto the blockchain through smart contracts and Stobox's proprietary technologies, we leverage our five-year vision and expertise to create something truly exceptional - the Stobox ecosystem.\n\nThe Stobox ecosystem is designed for businesses that wish to issue compliant digital assets, such as security tokens, in accordance with regulations. With the potential to tokenize any business, our ecosystem offers a wide range of opportunities for various industries to explore and capitalize on the benefits of digital assets.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719403899234?alt=media&token=64377b49-da41-4332-b6b7-bbbfda53f044",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719403906303?alt=media&token=6fb1ef8e-dc46-41f6-af3a-4868c873a9f5",
+      "upvotes": 8,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719403951999?alt=media&token=69eeff2b-658f-4b70-96b1-f0cdd343f5ed",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719403952000?alt=media&token=45973d61-f3dc-468e-a445-256a93c9eed4",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719403952000?alt=media&token=e551b8d7-4a96-40af-9f60-da69f9a96a28"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476e",
+          "name": "Audited",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424771",
+          "name": "Multichain",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "Polytrade_fin",
+        "discord": "5Zk94wRDrs",
+        "telegram": "polytrade",
+        "linkedin": "polytradefinance",
+        "facebook": "",
+        "instagram": "polytrade.finance",
+        "tiktok": "",
+        "youtube": "UCKM9n9Q1_v8hiCvaGWw6-LA",
+        "playstore": ""
+      },
+      "_id": "66799b3796514aacb67e5ba8",
+      "name": "Polytrade",
+      "tldr": "Leading RWA Marketplace where users can trade; t-bills, credit, stocks, real estate, commodities as well as collectibles, art, IP, creator royalties, luxury goods from all chains to a single platform. ",
+      "overview": "Polytrade is the global gateway to tokenized Real-World Assets (\"RWAs\"). Backed by & partnered with industry giants Mastercard, Polygon, Alpha Wave, and Matrix Partners, Polytrade’s marketplace brings together tokenized t-bills, credit, stocks, real estate, commodities as well as collectibles, art, IP, creator royalties, luxury goods from all chains to a single platform. Using its own RWA-focused ERC-6960 technology, Polytrade enables users to discover, trade, fractionalize, cross-chain bridge, leverage, trade and simply do more with RWAs.\n\nPolytrade is adding new assets, listed protocols and whole asset classes regularly.\n\n\n**Are you part of the Polytrade team or an active community member and want to contribute to this profile? \nPlease reach out to us on discord. **",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719245282519?alt=media&token=56ee72e4-2d84-45aa-bc78-314a299eaefb",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719245289403?alt=media&token=3454840a-ba68-43cc-ad04-81fc5a6a9186",
+      "upvotes": 201,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719245385537?alt=media&token=e7c47615-be08-4d0e-8ae7-2102b3046588",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719245385538?alt=media&token=7435e716-01d5-4b6f-85b9-81cc90955b45",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719245385539?alt=media&token=cec7747d-86fb-406c-85a9-08dd50074ecc"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476f",
+          "name": "Dapp",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424772",
+          "name": "Trading",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "PropyInc",
+        "discord": "",
+        "telegram": "propy",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "@Propy",
+        "playstore": ""
+      },
+      "_id": "66784121d4a74f813d5681ef",
+      "name": "Propy",
+      "tldr": "Integrating real estate transactions into the blockchain, offering a secure and efficient way to buy and sell property. ",
+      "overview": "Propy is integrating real estate transactions into the blockchain, offering a secure and efficient way to buy and sell property. By leveraging blockchain technology, Propy is making real estate transactions faster, more transparent, and more secure, aiming to revolutionize the real estate market.\n\n**How Does Propy Work?**\n\nPropy allows buyers, sellers, and agents to submit and manage offers through its platform, which tracks every step of the deal closure. This ensures 24/7 access and transparency for all parties involved. Propy uses blockchain to tokenize real estate, speeding up transactions and reducing costs associated with traditional real estate deals.\n\n**Propy for Investors**\n\nPropy’s platform offers a way for investors to participate in real estate tokenization. By tokenizing property, Propy enables fractional ownership and liquidity in real estate markets, making it easier for investors to buy and sell property shares. This democratizes real estate investment, allowing more people to invest in property regardless of their location or financial status.\n\n**Propy for Buyers and Sellers**\n\nBuyers and sellers benefit from reduced transaction times and lower costs. Traditional real estate transactions can take up to 30 days, but Propy’s blockchain solution can significantly shorten this period. The platform also ensures that 100% of transactions are recorded on the blockchain and with local county recorders, providing a secure chain of title for property ownership.\n\n**Propy for Agents**\n\nPropy offers tools to simplify the closing process for real estate agents. With Propy Signature, agents can handle e-signatures and document management securely and efficiently. This streamlines the closing process, saving time and ensuring a smooth transaction for clients.\n\n**About Propy**\n\nPropy is committed to expanding the use of blockchain technology in real estate. By creating a global platform for secure and efficient property transactions, Propy aims to make real estate more accessible and fair. The company has successfully tokenized the first property NFTs in the world and continues to innovate in the real estate market.\n\n**Whitepaper & Docs**\n\nFor more detailed information on Propy's technology and offerings, you can refer to their [whitepaper and documentation](https://propy.com).",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719156683566?alt=media&token=c436b271-0e89-406a-be73-0e3ebd9ddaf8",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719156848887?alt=media&token=ff12fc8d-7669-48e9-8238-9dc8d7aa6dc8",
+      "upvotes": 3,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "chainlink",
+        "discord": "",
+        "telegram": "chainlinkofficial",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "@chainlink",
+        "playstore": ""
+      },
+      "_id": "66783e6c17ca5feb7488b533",
+      "name": "Chainlink",
+      "tldr": "Facilitates the seamless integration of real-world assets into the blockchain ecosystem, driving innovation and growth in both DeFi and traditional financial markets.",
+      "overview": "Chainlink is revolutionizing the tokenization of real-world assets (RWAs) by integrating them into the blockchain using its industry-leading decentralized oracle network. This enables assets such as real estate, commodities, and financial instruments to be securely represented onchain, providing greater transparency, liquidity, and accessibility. By bridging the gap between traditional finance and blockchain technology, Chainlink aims to enhance the efficiency and inclusiveness of the global financial system.\n\n**How Does Chainlink's RWA Tokenization Work?**\n\nChainlink's platform provides a robust framework for tokenizing RWAs, ensuring these assets are enriched with real-world information, securely transferred cross-chain, and connected to offchain data. Key services include:\n\n- **Proof of Reserve**: Ensures transparent and autonomous verification of the reserves backing tokenized RWAs, enhancing user trust and security.\n- **Data Feeds and Streams**: Provides decentralized and reliable financial market data, supporting the accurate valuation and management of tokenized assets.\n- **Identity Solutions**: Facilitates secure onchain identity verification, crucial for regulatory compliance and trust in financial transactions.\n\n**Chainlink for Investors**\n\nInvestors benefit from increased market liquidity and transparency. Tokenized RWAs on Chainlink can be accessed globally, allowing for fractional ownership and broader participation in previously illiquid assets. This democratizes investment opportunities and offers a hedge against traditional market volatility.\n\n**Chainlink for Asset Issuers**\n\nAsset issuers can tokenize a wide range of real-world assets, making them more accessible and tradable on blockchain platforms. This reduces the need for intermediaries and paper-based processes, streamlining operations and lowering costs. Examples include Siemens issuing a digital bond on the Polygon mainnet and MakerDAO using US treasury bonds as collateral for its stablecoin, DAI.\n\n**Chainlink for DeFi and Financial Institutions**\n\nChainlink's decentralized oracle network supports the integration of RWAs into decentralized finance (DeFi) protocols, enabling new financial products and revenue streams. For instance, MakerDAO and other DeFi platforms are increasingly using RWAs to back their digital assets, enhancing stability and profitability.\n\n**About Chainlink**\n\nChainlink's suite of services, including data oracles, cross-chain communication protocols, and identity solutions, positions it as a pivotal player in the asset tokenization landscape. By leveraging these tools, Chainlink facilitates the seamless integration of real-world assets into the blockchain ecosystem, driving innovation and growth in both DeFi and traditional financial markets.\n\nFor more detailed information, you can explore Chainlink's comprehensive [blog on RWAs](https://blog.chain.link/real-world-assets-rwas-explained/) and their various use cases in tokenizing real-world assets.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719155929266?alt=media&token=ae8c9f6d-ac19-4913-b77e-012c81b59711",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719156021011?alt=media&token=9e2f505c-3657-49d6-aa14-b1a6b3cbdb1a",
+      "upvotes": 5,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "centrifuge",
+        "discord": "Centrifuge",
+        "telegram": "centrifuge_chat",
+        "linkedin": "centrifugehq",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "centrifuge477",
+        "playstore": ""
+      },
+      "_id": "66783af167165205a0679a46",
+      "name": "Centrifuge",
+      "tldr": "Pioneering the tokenization of real-world assets (RWAs) on the blockchain, aiming to create a more transparent, affordable, and limitless financial system",
+      "overview": "Centrifuge is pioneering the tokenization of real-world assets (RWAs) on the blockchain, aiming to create a more transparent, affordable, and limitless financial system. By leveraging Centrifuge, investors can diversify their portfolios with a variety of asset classes such as structured credit, real estate, U.S. Treasuries, carbon credits, and consumer finance, providing better transparency and legal recourse for their investments.\n\n**How Does Centrifuge Work?**\n\nCentrifuge allows asset managers to tokenize their funds, reducing costs and unlocking new capital sources. The platform is designed to manage and invest in a diverse range of RWAs through fully collateralized asset pools, ensuring investor protection with a robust legal framework. The protocol is asset-class agnostic, supporting various types of assets and integrating them into DeFi ecosystems.\n\n**Centrifuge for Investors**\n\nCentrifuge offers investors access to institutional-grade assets and managers, enabling the creation of diversified RWA portfolios tailored to individual risk preferences. By investing in Centrifuge, users can gain exposure to unique lending opportunities that are uncorrelated to crypto market volatility, thereby generating stable, real yields from real economic activities.\n\n**Centrifuge for Asset Managers**\n\nAsset managers can tokenize their funds and streamline access to service providers and investors via Centrifuge. This tokenization simplifies fund operations and opens new sources of capital. The platform supports the management of assets at scale, providing a resilient and compliant legal infrastructure.\n\n**Centrifuge for DAOs and Protocols**\n\nCentrifuge Prime is tailored for decentralized organizations and protocols, allowing them to integrate with large financial markets. This integration facilitates the allocation, management, and tokenization of robust RWA portfolios, offering DAOs the ability to optimize their treasury performance and extend their operational runway.\n\n**About Centrifuge**\n\nCentrifuge's mission is to bring the entire structured credit market onchain, encompassing securitization, tokenization, privacy, governance, and liquidity integrations. The platform's ecosystem includes a decentralized autonomous organization (DAO) supported by a diverse community of finance professionals and developers, ensuring the robust management of RWAs.\n\nFor more detailed information, you can visit their [official website](https://centrifuge.io).",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719155400659?alt=media&token=9e88ee21-9c2e-4627-9bf1-ed403935348d",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719155403834?alt=media&token=b1833c84-135d-48f7-874d-4be31d6b287f",
+      "upvotes": 2,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "SwarmMarkets",
+        "discord": "",
+        "telegram": "SwarmSMT",
+        "linkedin": "swarm-markets",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "SwarmFund",
+        "playstore": ""
+      },
+      "_id": "667835c6342cf7d1ebf0e2f1",
+      "name": "Swarm",
+      "tldr": "Integrating real-world assets into the blockchain, this platform enables seamless trading and investment in tokenized assets, bridging traditional financial markets with the DeFi ecosystem.",
+      "overview": "Swarm is revolutionizing asset tokenization by integrating real-world assets (RWAs) into the blockchain through a secure, compliant, and decentralized infrastructure. This platform enables investors to trade and invest in tokenized assets, providing a seamless bridge between traditional financial markets and the DeFi ecosystem.\n\n**How Does Swarm Work?**\n\nSwarm allows financial innovators to create their own marketplaces for tokenized assets. Utilizing its proprietary SX1411 and SX1155 standards, Swarm ensures compliance and security for both fractional and unique RWAs. The platform supports a wide range of assets, including stocks, bonds, and ETFs, all backed by institutional-grade custodians.\n\n**Swarm for Investors**\n\nInvestors can access unique financial products, such as tokenized US Treasury Bond ETFs and stocks like Apple and Tesla, directly on the blockchain. These assets offer transparency through on-chain proof-of-reserves and monthly disclosures. Investors benefit from the platform's DeFi infrastructure, which includes automated market makers (AMMs), liquidity pools, and decentralized OTC trading, providing diverse opportunities for earning yields and trading securely.\n\n**Swarm for Asset Issuers**\n\nSwarm provides a complete API and smart contract solution for issuing digital assets. Asset managers can use the platform’s intuitive UI to manage workflows from issuance to redemption, ensuring compliance and transparency at every step. The hybrid model integrates blockchain technology with traditional financial assets, opening new avenues for banks, neo-banks, and other financial institutions.\n\n**Swarm’s Unique Features**\n\n- **Compliance and Security:** Swarm’s infrastructure adheres to regulatory standards, ensuring that all tokenized assets are legally compliant and backed by real-world equivalents.\n- **Versatile Liquidity Platform:** Swarm offers a white-label solution for building marketplaces, allowing seamless integration with existing services and enhancing customer experiences.\n- **Transparency:** On-chain disclosures and monthly reports provide full transparency of the underlying assets, bolstering investor confidence.\n\n**About Swarm**\n\nSwarm empowers financial markets by providing a compliant and decentralized infrastructure for trading and investing in tokenized assets. The platform bridges the gap between traditional and digital finance, enabling the creation of new financial products and opportunities.\n\nFor more information, you can visit [Swarm's official website](https://swarm.com).",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719154056555?alt=media&token=2c6af6ec-917f-482c-ba28-b0fe9c3924ff",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719154079850?alt=media&token=cfd4ae38-f89f-4cb7-9ce8-dc693b7a7a24",
+      "upvotes": 2,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "barterteam",
+        "discord": "",
+        "telegram": "barterteam",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "@BarterSmartplace",
+        "playstore": ""
+      },
+      "_id": "667830e992224760b64fbee6",
+      "name": "Barter Smartplace",
+      "tldr": "Revolutionizing the trade of digital and real-world assets by integrating them into a blockchain ecosystem, providing a secure and efficient marketplace for tokenized assets.",
+      "overview": "Barter Smartplace is revolutionizing the way digital and real-world assets are traded by integrating them into a blockchain ecosystem. This platform provides a secure and efficient marketplace for tokenized assets, enabling users to buy, sell, and trade assets globally with the transparency and security of blockchain technology.\n\n### How Does Barter Smartplace Work?\n\nBarter Smartplace allows users to tokenize real-world assets and trade them on a decentralized marketplace. Users can create NFTs representing their assets and use smart contracts to facilitate secure and transparent transactions. The platform supports a wide range of assets, including real estate, digital art, and commodities, allowing for diverse and flexible trading options.\n\n### Barter Smartplace for Investors\n\nInvestors benefit from the platform's ability to tokenize and fractionalize assets, making it easier to diversify portfolios and access a broader range of investment opportunities. By using NFTs and smart contracts, Barter Smartplace ensures that all transactions are transparent and secure, reducing the risk associated with traditional investment methods.\n\n### Barter Smartplace for Buyers and Sellers\n\nBuyers and sellers can leverage the platform to conduct transactions directly with each other, bypassing traditional intermediaries. This reduces transaction costs and speeds up the process. The platform also features an internal messaging system to facilitate communication between parties during transactions, ensuring clarity and reducing misunderstandings.\n\n### Barter Smartplace for P2P Trades\n\nThe Barter P2P service acts as an escrow guarantor for the transfer of tokens, ensuring that both buyers and sellers fulfill their obligations. This system uses smart contracts to secure transactions, providing an additional layer of trust and security for users trading digital assets.\n\n### About Barter Smartplace\n\nBarter Smartplace is part of a comprehensive blockchain ecosystem that includes its own DPOS blockchain, a decentralized mobile banking solution through the Barter Wallet, and extensive support for cross-border transactions. This ecosystem ensures seamless integration and management of digital assets, providing users with a robust and reliable trading platform.\n\n### Whitepaper & Docs\n\nFor more detailed information on Barter Smartplace’s technology and offerings, you can refer to their [official website](https://barter.company) and [documentation](https://barter.company/about.html).",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719152468746?alt=media&token=f830ee26-2ca0-47f3-916f-6ac0d1bd68eb",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1719152764570?alt=media&token=a0fce12c-9a74-487a-bc90-abfa05164841",
+      "upvotes": 1,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "https://twitter.com/OndoFinance",
+        "discord": "",
+        "telegram": "https://t.me/ondofinance",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "www.youtube.com/@ondofinance",
+        "playstore": ""
+      },
+      "_id": "66744da587727baaa3d06f98",
+      "name": "Ondo Finance",
+      "tldr": "Building the next generation of financial infrastructure to improve market efficiency, transparency, and accessibility.",
+      "overview": "**Ondo Finance is revolutionizing the tokenization of real-world assets (RWAs) on the blockchain, providing institutional-grade financial products accessible to a broader audience. With a focus on transparency, security, and compliance, Ondo offers a reliable investment platform for traditional and crypto investors alike.**\n\n**How Does Ondo Finance Work?**\n\nOndo Finance tokenizes traditional financial assets like U.S. Treasuries and money market funds into ERC20 tokens such as OUSG, OMMF, and USDY. These tokens represent real-world assets, offering exposure to secure, yield-generating investments. Investors can choose between fixed yield (FY) and variable yield (VY) positions, tailoring their risk and return profiles.\n\n**Ondo Finance for Investors**\n\nOndo Vaults provide investors with two options: fixed yield (FY) positions for stable returns and variable yield (VY) positions for higher, leveraged returns. The value of these positions is determined by market dynamics, and investors earn yields based on their chosen profiles, ensuring a balanced and stable investment opportunity compared to the volatile crypto market.\n\n**Ondo Finance for Institutions**\n\nInstitutions benefit from Ondo's compliance and regulatory adherence, with assets undergoing thorough audits by Peckshield, Certik, and Quantstamp. Ondo's partnerships with major financial entities like BlackRock ensure a robust backing for its tokenized assets, enhancing credibility and security.\n\n**Ondo Finance for Partners**\n\nOndo collaborates with key players in both traditional finance and DeFi, including partnerships with Wintermute for liquidity enhancement and the integration of high-quality tokenized securities on platforms like Flux Finance. These partnerships facilitate the seamless operation and liquidity of Ondo's tokenized assets.\n\n**About Ondo Finance**\n\nFounded in 2021 and backed by notable investors like Peter Thiel’s Founders Fund and Coinbase Ventures, Ondo Finance is a leading player in the RWA tokenization market, managing over $225 million in assets. With a vision to merge TradFi and DeFi, Ondo continues to innovate, providing a bridge between traditional financial markets and the blockchain ecosystem.\n\n**Whitepaper & Docs Here**: [Ondo Finance](https://docs.ondo.finance/)",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718897948897?alt=media&token=0db04b9f-dcf7-429e-a9b2-cbe2f8407fa7",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718897943310?alt=media&token=19d3be06-7b69-4674-8770-5c4e2f56a16a",
+      "upvotes": 7,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "ClearpoolFin",
+        "discord": "YYzxscA4nu",
+        "telegram": "clearpoolofficial",
+        "linkedin": "clearpool",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UC5MGnFBwIWGen4GxV1jVoUQ",
+        "playstore": ""
+      },
+      "_id": "667437370d35fbfd82e12b0d",
+      "name": "Clearpool",
+      "tldr": "Decentralized marketplace for unsecured liquidity, allowing institutions to borrow funds directly from crypto lenders without needing collateral. ",
+      "overview": "Clearpool was launched in 2021, founded by Robert Alcorn, who has extensive experience in financial markets and blockchain technology.\n\nClearpool provides a decentralized finance (DeFi) platform where institutions can obtain unsecured loans from a network of crypto lenders. By removing the need for collateral, Clearpool aims to increase liquidity and improve capital efficiency in the DeFi ecosystem. Borrowers are evaluated based on their creditworthiness, and lenders can earn competitive interest rates on their crypto assets.\n\n**Here is a basic example of how it might work;** \n\nLet's say a hedge fund wants to borrow 500,000 USDC to invest in a new trading strategy but doesn't want to lock up collateral. They apply for a loan on Clearpool, where their creditworthiness is assessed. If approved, the loan is funded by multiple crypto lenders on the platform. The hedge fund uses the funds for their strategy and pays back the loan with interest, providing returns to the lenders.\n\n**So how does Clearpool make money?** \n\nClearpool makes money through fees charged on the platform. This includes fees from borrowers for obtaining loans and from lenders for accessing investment opportunities. Additionally, Clearpool may charge for premium services and advanced analytics.\n\n### Token\n\nClearpool has a native token called $CPOOL. The token accrues value in several ways:\n\n- **Staking**: Users can stake $CPOOL tokens to participate in governance and earn rewards.\n- **Incentives**: Lenders and borrowers can earn $CPOOL tokens as rewards for their participation on the platform.\n- **Access**: Holding $CPOOL tokens might be required for accessing certain features or premium services on Clearpool.\n\n### Fun Facts\n\n- Clearpool is one of the first platforms to offer unsecured loans in the DeFi space, making it a pioneer in decentralized credit markets.\n- The platform uses advanced algorithms and credit assessments to minimize risks for lenders while providing attractive returns.\n\n### Competitors\n\nClearpool's main competitors include other DeFi lending platforms like Aave, Compound, and Maple Finance. While Aave and Compound focus on overcollateralized loans, Maple Finance, like Clearpool, offers unsecured lending but may differ in terms of borrower assessment and platform specifics.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718891911300?alt=media&token=bd71c12b-23ed-4def-ba98-c72ea7dc40d7",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718891919497?alt=media&token=778e8281-53ac-495d-8f6b-64241a2feeeb",
+      "upvotes": 6,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718892131958?alt=media&token=0d3dd5e3-2328-4acb-8fb4-c37e4922af32",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718892131959?alt=media&token=5c0ce9f5-eb11-4837-889b-759f94cdf578",
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718892131960?alt=media&token=3a5d1229-d6a0-455c-af2d-c949fc400536"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "landxfinance",
+        "discord": "",
+        "telegram": "landxfin",
+        "linkedin": "landxfinance",
+        "facebook": "landxfinance",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCjr4FTrtmLAp8mRLvUWC3uA",
+        "playstore": ""
+      },
+      "_id": "6672efd73193e19d0e627924",
+      "name": "LandX",
+      "tldr": "World's first decentralized platform for agriculture financing and global farmland investing",
+      "overview": "LandX is integrating farmland yield into the blockchain using its proprietary perpetual commodity vaults protocol, providing investors with uncorrelated, inflation-hedged returns. Since the 1970s, farmland has consistently increased in value, making it a reliable investment. Despite this, there hasn't been a way to invest crypto in farmland until now.\n\n**How Does LandX Work?**\nLandX offers capital to real-world farmers in exchange for a perpetual share of their crops, represented by ERC20 tokenized perpetual vaults (xTokens). Investors can purchase these xTokens for specific crops (like wheat, corn, soybeans, and rice) and earn daily yields in USDC. The xTokens provide a hedge against inflation and are backed by real-world commodities.\n\n**LandX for Investors**\nThe value of xTokens is determined by market supply and demand on a decentralized exchange. Investors can earn daily commodity yields from their xTokens, making it a stable investment compared to volatile crypto assets.\n\n**LandX for Farmers**\nFarmers receive upfront capital by pledging a share of their future harvests to LandX. This capital allows farmers to invest in their operations without traditional financing challenges. They can exit the agreement anytime by returning the xTokens.\n\n**LandX for Validators**\nValidators act as intermediaries between farmers and the LandX protocol, ensuring the legitimacy of the farmland and handling legal and financial contracts. They earn commissions and a percentage of protocol fees for their work.\n\n**About LandX**\nLandX’s perpetual commodity vaults offer investors inflation-hedged returns backed by farmland. These liquid digital assets, known as xTokens, provide a unique investment opportunity uncorrelated with traditional markets.\n[Whitepaper & Docs Here](https://landx.gitbook.io/landx)\n\n\n### Q&A with the team of LandX\n\n\n**Please explain LandX to the average “Joe Crypto”, what’s the TLDR on your unique RWA project?**\n\nLandX Finance stands as the pioneer DeFi initiative dedicated to agricultural finance, tackling the worldwide agro-finance shortfall. It revolutionizes investment by tokenizing crop share agreements, streamlining the finance process, and has incorporated over 800 hectares of farmland into its system. It leverages universally accepted legal frameworks to offer a scalable, global solution, integrating DeFi to reduce costs and enhance accessibility, thus providing an effective solution to the multibillion-dollar agricultural finance challenge.\n\n\n**Can you walk us through how the platform works from the farmers perspective?**\n\nOur community engagement and marketing efforts frequently receive inquiries from farmers worldwide seeking innovative financing solutions. They can connect with us either through the application form on our website or by joining our community on Telegram and Discord.\n\n*Regarding the funding process, it involves several steps:*\n-Vetting of land and related documentation.\n-Execution of agreements and liens, which are subsequently brought onto the blockchain and secured in a smart contract, followed by the minting and sale of xTokens in the open market.\n-Conversion of proceeds to fiat currency through partner exchanges and off-ramp services in the respective countries.\n-Deductions for prepayment and security deposit from the initial capital to ensure the platform's operational sustainability and protect investors. Prepayments are made in kilograms of produce, and farmers can opt out at any time by repurchasing their xTokens from the market.\n-Farmers can apply for LandX insurance as an additional measure to safeguard against adverse weather, further securing the crop yield.\n\n\n**There is a DeFi component to the project, investors can buy xTokens and earn a yield relative to the real world price of the commodity? Can you explain.**\n\nxTokens provide a unique opportunity to invest in agricultural commodities without owning the actual farmland. By investing in xTokens, one is essentially purchasing a stake in the farm’s output, diversifying investor portfolios in a novel way. Each xToken entitles the holder to a corresponding cToken annually, representing 1kg of the underlying commodity, claimable at any time without restrictions.\n\nWe currently cover four commodities: wheat, soy, rice, and corn. Additionally, there’s an index fund known as the xBasket, which combines all four xTokens in an auto-compounding vault, enhancing yield opportunities within the DeFi ecosystem.\n\n\n**The LandX governance token $LNDX, what are the benefits of holding?**\nThe LNDX token represents both governance and revenue-sharing within the LandX ecosystem. As we introduce new products, additional revenue streams will become available, making LNDX an attractive option for those invested in the ecosystem's growth. The token is traded on Ethereum, Arbitrum, and various centralized exchanges (MEXC, Gate.io, Bitget).\n\n\n\n**LandX is such a unique RWA project do you have any competitors?**\nOur main competitors are traditional finance institutions that offer loans to farmers. Unlike these entities, no other DeFi or real-world asset platform provides agricultural financing as we do. We offer distinct advantages over traditional finance such as lower costs, quicker transactions, and access to a global pool of investors through decentralized finance, making our approach a more efficient solution to bridge the agricultural financing gap.\n\nOur core innovation lies in offering farmers collateralized loans against their farmland and issuing xTokens (e.g., xRice, xCorn) for future crops, providing both real-world yields to investors and a hedge against currency risks and price volatility for farmers.\n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718808244222?alt=media&token=222a1d95-f5f0-4640-8ea2-f92a38458fb6",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718808253949?alt=media&token=31565ce8-2347-4f3b-bc2e-02116dacac61",
+      "upvotes": 5,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e42474e",
+          "name": "Real World Assets (RWA)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476f",
+          "name": "Dapp",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "AlgoFoundation",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "algorandfoundation",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "algorand",
+        "playstore": ""
+      },
+      "_id": "6671aed1a605f595007fbc86",
+      "name": "Algorand",
+      "tldr": "A high-performance blockchain focused on speed, security, and decentralization, enabling efficient transactions and robust smart contracts.",
+      "overview": "Algorand, launched in June 2019 by Silvio Micali, is a Layer 1 blockchain designed to deliver high-speed, secure, and decentralized transactions. Using a Pure Proof of Stake (PPoS) consensus mechanism, Algorand ensures immediate transaction finality and can handle a high throughput of transactions per second (TPS).\n\nAlgorand's native token, ALGO, is used for transaction fees, staking, and participating in the network's governance. The platform supports the creation of decentralized applications (dApps) and complex smart contracts through its Algorand Smart Contracts (ASC1), which are designed for efficiency and scalability.\n\nWith a focus on overcoming the blockchain trilemma, Algorand offers a balanced approach to decentralization, scalability, and security, making it an attractive platform for developers and enterprises.\n\n--\n\n- Mainnet Launched: June 2019\n- Founder: Silvio Micali\n- Consensus Mechanism: Pure Proof of Stake (PPoS)\n- Time to Finality: ~4.5 seconds\n- TPS: 1,000+ transactions per second\n- EVM Compatible: No\n- Token Ticker: ALGO\n- Programming Language: Python, JavaScript & PyTeal for smart contracts\n- Average Network Fees: Check on [Algorand](https://developer.algorand.org/docs/get-details/transactions/#:~:text=Fees%20for%20transactions%20on%20Algorand,(1000%C2%B5A%20or%200.001A).)",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726278979?alt=media&token=ab145dd5-4257-4bfa-a4f5-0fc206f36e24",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726281268?alt=media&token=2afe79a8-7833-4bbb-94b6-fe66b0d2bf1c",
+      "upvotes": 8,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726333824?alt=media&token=bf12607f-bcc3-46c0-97a7-934cc6ddb944"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476b",
+          "name": "PoS",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476f",
+          "name": "Dapp",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "berachain",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "berachain",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "hashtag/berachain",
+        "playstore": ""
+      },
+      "_id": "6671add3a605f595007fbc7c",
+      "name": "Berachain",
+      "tldr": "An innovative Layer 1 blockchain that integrates DeFi with scalable, secure, and super-efficient transactions.",
+      "overview": "Berachain is an in-development Edge Layer 1 blockchain that allows full DeFi integration with scale and security. With the vision of changing the DeFi landscape, Berachain will put advanced consensus mechanisms and innovative architecture in place to provide high throughput of transactions and efficiency. \n\n--\n\nThe native token is BERA, which shall be used for transaction fees, staking, and network governance. Designed with a strong focus on interoperability and ease of use, the platform makes it ideal for developers to build scalable DeFi applications and services. Engaged in the development of a thriving DeFi ecosystem, Berachain aims to provide remedies to the existing deficiencies in public blockchains by suggesting a practical, expandable, secure, and efficient infrastructure for decentralized finance.\n\n--\n\n- Mainnet Launched: TBD (development ongoing)\n- Founder: Berachain Team\n- Consensus Mechanism: Advanced Proof of Stake (PoS)\n- Time to Finality: TBD\n- TPS: TBD (expected high throughput)\n- EVM Compatible: Yes\n- Token Ticker: BERA\n- Programming Language: Solidity \n- Dev Docs: [Check on Berachain](https://docs.berachain.com/developers/developer-tools) \n- Average Network Fees: -",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726000694?alt=media&token=f4f25d2e-d4a0-41d9-b259-5cc9441835d3",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726017007?alt=media&token=c5126eed-d416-451e-9e8b-5ebf3013819c",
+      "upvotes": 8,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718726010244?alt=media&token=8c9e4d0d-f523-4aed-8374-7f320228fbf8"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476b",
+          "name": "PoS",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "https://twitter.com/BNBCHAIN?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "https://www.linkedin.com/company/bnbchaininnovation",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "https://www.youtube.com/c/bnbchainofficial",
+        "playstore": ""
+      },
+      "_id": "6671a578fca8ae66615b5d78",
+      "name": "BNB Smart Chain",
+      "tldr": "A high-performance blockchain designed by Binance for fast, low-cost transactions and smart contract functionality.",
+      "overview": "BNB Smart Chain (BSC), launched by Binance in September 2020, is a blockchain network built for running smart contract-based applications. With a focus on providing a high-speed, low-cost alternative to Ethereum, BSC has become a popular platform for decentralized finance (DeFi) applications, non-fungible tokens (NFTs), and other dApps.\n\nBSC operates alongside the Binance Chain and uses a Proof of Staked Authority (PoSA) consensus mechanism, which combines elements of Proof of Stake (PoS) and Proof of Authority (PoA). This allows BSC to achieve shorter block times and lower transaction fees compared to many other blockchains.\n\nThe native token, BNB, is used for transaction fees, staking, and participating in network governance. BNB Smart Chain's compatibility with the Ethereum Virtual Machine (EVM) makes it easy for developers to port their Ethereum dApps to BSC, fostering a vibrant and rapidly growing ecosystem.\n\n- Mainnet Launched: September 2020\n- Founder: Binance (led by Changpeng Zhao)\n- Consensus Mechanism: Proof of Staked Authority (PoSA)\n- Time to Finality: ~3 seconds\n- TPS: 100+ transactions per second\n- EVM Compatible: Yes\n- Token Ticker: BNB\n- Programming Language: \n- Average Network Fees: Check on [CoinWallet](https://coin.space/binance-smart-chain-network-fee/)",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718723844555?alt=media&token=faeca069-5341-4435-9beb-bafaf1a780a8",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718723850385?alt=media&token=54fa945b-eaa6-44e2-a9bc-fab9396399fb",
+      "upvotes": 14,
+      "screenshots": [
+        "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718723861563?alt=media&token=da2b2bc4-d502-4d6d-85e0-e3e71e7119ad"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476b",
+          "name": "PoS",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476f",
+          "name": "Dapp",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "https://twitter.com/tezos",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "https://www.linkedin.com/company/tezos",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "https://www.youtube.com/@Tezos",
+        "playstore": ""
+      },
+      "_id": "666aa3ad569371bcd61a4cd7",
+      "name": "Tezos",
+      "tldr": "Tezos is a self-upgradable and energy-efficient Proof of Stake blockchain.",
+      "overview": "Tezos is an open-source blockchain protocol designed for assets and applications, supported by a global community of validators, researchers, and developers. It is secure, upgradable, and built for longevity. Tezos facilitates formal verification, enhancing the security of critical or high-value smart contracts by mathematically proving the correctness of the transaction code. Additionally, its innovative consensus protocol, Liquid Proof of Stake, enables all users to participate in securing the network and be rewarded for their contributions.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718264606707?alt=media&token=01f1a896-9f39-4a38-9e96-5f1e7b815ccb",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718264727970?alt=media&token=18a15e67-f476-45db-9180-a9cfd93d6fed",
+      "upvotes": 8,
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e424768",
+          "name": "NFT",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "links": {
+        "twitter": "monero",
+        "discord": "",
+        "telegram": "monero",
+        "linkedin": "",
+        "facebook": "monerocurrency",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UC3Hx81QYLoEQkm3vyl4N4eQ",
+        "playstore": ""
+      },
+      "_id": "66671a4fb5c11062c5ac3494",
+      "name": "Monero",
+      "tldr": "Secure, private, untraceable cryptocurrency blockchain that keeps your money confidential.",
+      "overview": "Monero is a privacy-focused cryptocurrency that prioritizes anonymity and security. It uses advanced cryptographic techniques to ensure transactions are confidential and untraceable, making it a popular choice for users who value privacy.\n\nFounders and Founding Date: Monero was launched in April 2014 by a group of developers, including Riccardo Spagni, also known as \"Fluffypony.\" Monero originated from Bytecoin, another privacy-focused cryptocurrency, and was rebranded and relaunched as Monero to address certain issues.\n\nFunding: Monero is an open-source project and does not have a formal funding structure. It relies on community donations and volunteer contributions for development and maintenance.\n\nConsensus Mechanism: Monero uses a Proof of Work (PoW) consensus mechanism called CryptoNight. Unlike Bitcoin’s SHA-256, CryptoNight is designed to be ASIC-resistant, promoting decentralization by allowing more individuals to mine Monero using regular computer hardware (CPUs).\n\nPerformance Metrics:\n\nTransactions Per Second (TPS): Monero handles around 1,000 TPS due to its efficient block structure.\nTime to Finality: Monero achieves finality in approximately 2 minutes per block, with a confirmation time of about 20 minutes for sufficient security.\nStandout Features:\n\nPrivacy and Anonymity: Monero uses advanced cryptographic techniques such as Ring Signatures, Ring Confidential Transactions (RingCT), and Stealth Addresses to ensure transaction details (amounts, sender, receiver) are private and untraceable.\nFungibility: Monero’s strong focus on privacy ensures that all coins are fungible, meaning each unit of Monero is indistinguishable from another. This protects users from having their coins “blacklisted” due to previous transactions.\nDecentralization: Monero’s ASIC-resistant PoW algorithm encourages decentralization by making it feasible for individuals to mine Monero using standard computer hardware, reducing the dominance of specialized mining farms.\nDynamic Block Size: Monero’s block size is dynamic, allowing the network to adjust block sizes based on transaction demand, which helps prevent congestion and keeps transaction fees low.\nActive Development Community: Monero has a robust and active development community that continuously works on improving the protocol, enhancing privacy features, and maintaining the security of the network.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718032924012?alt=media&token=86221bb8-977f-49e5-ac58-ce8fdcd0e013",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718032930132?alt=media&token=e1761f2f-2708-4ec6-8af3-d03ae3f68f47",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 5
+    },
+    {
+      "links": {
+        "twitter": "nearprotocol",
+        "discord": "zfhfRpaM4m",
+        "telegram": "cryptonear",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCuKdIYVN8iE3fv8alyk1aMw",
+        "playstore": ""
+      },
+      "_id": "6667175945b6f270629ac6aa",
+      "name": "NEAR Protocol",
+      "tldr": "Chain abstraction stack, empowering builders to create apps that scale to billions of users and across all blockchains",
+      "overview": "NEAR Protocol is a decentralized application platform designed to make apps usable on the web. It focuses on user and developer-friendly experiences while providing a scalable and secure infrastructure for decentralized applications (dApps).\n\nFounders and Founding Date: NEAR Protocol was founded by Alexander Skidanov and Illia Polosukhin in 2018.\n\nFunding: NEAR Protocol has raised significant funding, including a $21.6 million round led by Andreessen Horowitz in 2020, and an additional $150 million in early 2022 to support ecosystem growth.\n\nConsensus Mechanism: NEAR Protocol uses a unique consensus mechanism called Nightshade. Nightshade is a variant of Proof of Stake (PoS) that enhances scalability through sharding.\n\nPerformance Metrics:\n\nTransactions Per Second (TPS): NEAR can handle approximately 100,000 TPS due to its sharding architecture.\nTime to Finality: NEAR achieves finality in about 1-2 seconds, making it very fast for transaction confirmations.\nStandout Features:\n\nSharding: NEAR uses a sharding approach called Nightshade, which allows the network to scale by distributing the workload across multiple shards, each processing transactions in parallel.\nDeveloper-Friendly: NEAR Protocol offers a suite of tools and a development environment that simplifies the creation of dApps. It supports familiar programming languages like Rust and AssemblyScript.\nUser-Friendly: NEAR focuses on creating a seamless user experience with features like human-readable account names and meta-transactions, where users don't need to manage gas fees directly.\nRainbow Bridge: NEAR provides interoperability with Ethereum through the Rainbow Bridge, allowing assets and data to move freely between the two blockchains.\nAurora: NEAR also offers Aurora, an Ethereum Virtual Machine (EVM) compatible environment, enabling developers to deploy Ethereum dApps on NEAR with minimal changes.\nNEAR Protocol's emphasis on scalability, user experience, and developer accessibility makes it a compelling option for building and using decentralized applications. Its innovative sharding technology, fast transaction finality, and robust tooling set it apart in the competitive landscape of Layer 1 blockchains.",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718032192172?alt=media&token=5d866c52-a940-407f-b4f0-3a64e77db5ce",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1718032195849?alt=media&token=c9fa699a-0cc4-4fb0-ad86-7874275eb978",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 15
+    },
+    {
+      "links": {
+        "twitter": "dfinity",
+        "discord": "",
+        "telegram": "+m8tiEFaaNR8xNjNl",
+        "linkedin": "dfinity",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCOyguKlTxoDK3HRzmGbLyAg",
+        "playstore": ""
+      },
+      "_id": "6662d832a910a0bf2450652b",
+      "name": "Internet Computer",
+      "tldr": "Designed to run at web speed with unlimited capacity, enabling the creation of scalable dApps and services.\n",
+      "overview": "developed by the DFINITY Foundation. It aims to extend the functionality of the public internet so it can natively host software and services, creating a decentralized global computer network.\n\nFounders and Founding Date: The Internet Computer was founded by Dominic Williams and developed by the DFINITY Foundation. It launched on May 10, 2021.\n\nFunding: The DFINITY Foundation has raised significant funding through various rounds, including $61 million from Andreessen Horowitz and Polychain Capital, and an additional $195 million from several investors in 2018.\n\nConsensus Mechanism: The Internet Computer uses a unique consensus mechanism called Threshold Relay, combined with the Network Nervous System (NNS), a decentralized autonomous organization (DAO) that governs the network.\n\nPerformance Metrics:\n\nTransactions Per Second (TPS): The Internet Computer aims to support an unlimited number of transactions per second through its novel architecture.\nTime to Finality: The Internet Computer achieves finality in 1-2 seconds, making it extremely fast compared to other blockchains.\nStandout Features:\n\nCanister Smart Contracts: ICP uses canisters, which are an advanced form of smart contracts that can store and process data efficiently, enabling complex applications to run on the blockchain.\nWeb Speed: The Internet Computer operates at web speed, providing a seamless user experience comparable to traditional web services.\nScalability: The network is designed to scale infinitely, accommodating a growing number of users and applications without sacrificing performance.\nGovernance: The Network Nervous System (NNS) allows token holders to participate in network governance, proposing and voting on upgrades and changes.\nDecentralization: ICP aims to decentralize not just finance but the entire internet, hosting websites, enterprise systems, internet services, and more directly on the blockchain.\nSecurity: The Internet Computer's unique cryptographic protocols ensure a high level of security and resistance to malicious attacks.\nThe Internet Computer's vision of decentralizing the entire internet, combined with its high performance, scalability, and innovative consensus mechanism, sets it apart as a groundbreaking project in the blockchain space.\n\nThe Internet Computer, developed by the DFINITY Foundation and launched in May 2021, aims to transform the public Internet into a global computing platform. This innovative blockchain runs at web speed and offers unlimited capacity, allowing developers to build secure, scalable, and decentralized applications (dApps) and services.\n\nThe Internet Computer uses a unique consensus mechanism known as Threshold Relay combined with a Network Nervous System (NNS) for governance. This design enables the network to process transactions quickly and efficiently, supporting complex computations and large-scale applications.\n\nThe native token, ICP, is used for transaction fees, staking, and governance. The Internet Computer's ability to integrate with existing web standards and its focus on providing a seamless developer experience position it as a powerful platform for the next generation of Internet services and decentralized applications.\n\nMainnet Launched: May 2021\nFounder: DFINITY Foundation (led by Dominic Williams)\nConsensus Mechanism: Threshold Relay + Network Nervous System (NNS)\nTime to Finality: 2-5 seconds\nTPS: Thousands of transactions per second\nEVM Compatible: No\nToken Ticker: ICP\nProgramming Language: Motoko and Rust\nAverage Network Fees: Check on Internet Computer (https://internetcomputer.org/docs/current/developer-docs/gas-cost)\n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717753879595?alt=media&token=d8e35daa-2cb3-4bd0-9244-658d8c3e4972",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717753887012?alt=media&token=0dbd5f13-3ae1-47d3-8053-f7ffe2bf5653",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 5
+    },
+    {
+      "links": {
+        "twitter": "solana",
+        "discord": "kBbATFA7PW",
+        "telegram": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UC9AdQPUe4BdVJ8M9X7wxHUA",
+        "playstore": ""
+      },
+      "_id": "6662bc738c33eec7063de1e0",
+      "name": "Solana",
+      "tldr": "Super-fast “generation 3” blockchain designed to handle lots of transactions quickly and cheaply",
+      "overview": "Solana is a super-fast blockchain designed to handle lots of transactions quickly and cheaply. It uses three main systems to do this: Proof of Stake (PoS) and Proof of History (PoH). PoS lets people earn rewards by holding and \"staking\" their Solana coins, while PoH keeps track of time in a very precise way to help the network stay organized. The third is a unique Tower BFT (Byzantine Fault Tolerance) , a special system that makes sure everything stays secure and the network can keep running smoothly, even if some parts fail. These three systems working together make Solana one of the fastest and most efficient blockchains.\n\nThe founding team was Stephen Akridge, Greg Fitzgerald and Anatoly Yakovenko and originally it was called Loom. However after a Etherum based project of the same name launched there was some confusion as to if the projects were linked. So they renamed it to Solana after a small beach town north of San Diego where they had surfed together. \n\nOn March 28th 2018 Greg renamed a prototype previously under the name “Silk” to Solana and the team created the Solana GitHub organization. They launched mainnet in beta  in March 2020 and in August 2020 conducted their initial coin offering (ICO) for the SOL token raising $1.76 million. \n\nIn 2021 Solana achieved 50,000 TPS and now boasts an impressive 65,000 transactions per second making it one of the fastest blockchains in existence. Also the very low fees make it popular for new crypto users and developers when compared to incumbent blockchains like Etherum and Bitcoin. Many application use cases are unable to work when transactions are costly. \n\nDespite its rapid growth and success, Solana has faced challenges, including a network outage in September 2021 where the network was down for 12 hours. However the team turned it around and successfully restarted and upgraded the network.\n\nBecause of Solanas Proof of Stake components a yield can be made for helping to secure the network with your SOL tokens. As of writing this there is no slashing, so very little downside to staking the tokens apart from the delay in unstaking. Regards for staking are paid after each “epoch” which lasts 1-2 days and unstaking can only happen after an epoch is finished. So best to unstake close to the end of an epoch.  \n\nIn 2021 bull market Solana benefited from the NFT boom as many retail users were rightly upset paying huge gas fees to mint NFTs and make transactions. In 2023 and 2024 a memecoin frenzy took over Solana many dubbing it the meme coin casino with 1000s of new tokens launching daily. \n\nSolana has come along way over the last few years and has grown into one of the largest crypto blockchains with a thriving development community. \n\nIf we missed something important, or if we made a mistake, please let us know! Reach out to us in discord and suggest an edit. \n\n\nMainnet Launched: March 2020\nFounders: Anatoly Yakovenko, Stephen Akridge, Greg Fitzgerald\nConsensus Mechanism: POH\nTime to Fanality: 400-800 milliseconds for confirmation and 15 seconds for completely finalized\nTPS: an impressive 65,000 per second \nToken Ticker: SOL\nDecimals: The Solana token or “SOL” as it shows on the ticker. Has 9 decimal places and much like $1 dollar has 100 cents, there are 10 billion “Lamports” in 1 SOL. \nDevelopment Language: Rust\nAverage Network Fees: See Gas Tracker https://bitcoinfees.net/ \n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717746772702?alt=media&token=1b177085-0691-4e67-bb91-229d7ff9d176",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717746775798?alt=media&token=51a33194-6cfc-481b-a761-3c087102eaed",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476b",
+          "name": "PoS",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 41
+    },
+    {
+      "links": {
+        "twitter": "avax",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "avalancheavax",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCScsLTtz5DCwJodZ8ht9KNA",
+        "playstore": ""
+      },
+      "_id": "6662a9a22f39d61df37f1ecc",
+      "name": "Avalanche",
+      "tldr": "A blockchain built to scale, subnets set a new bar for scalability, without sacrificing speed, reliability, and security.",
+      "overview": "Avalanche is a high-performance, scalable, and customizable Layer 1 blockchain platform for decentralized applications.\nFounders and Founding Date: Founded by Emin Gün Sirer and his team at Ava Labs in 2020.\nFunding: Avalanche has raised significant funding, including a $230 million token sale led by Polychain and Three Arrows Capital.\nConsensus Mechanism: Avalanche uses the Avalanche consensus protocol, which is a DAG-optimized consensus mechanism.\nPerformance Metrics:\nTransactions Per Second (TPS): Over 4,500 TPS.\nTime to Finality: Less than 2 seconds.\nStandout Features:\nHigh throughput and low latency.\nCustomizable subnets for different applications.\nStrong focus on interoperability and flexibility.\n\nAvalanche, launched in September 2020 by Ava Labs, is a high-performance blockchain platform known for its scalability, speed, and customizability. Utilizing the Avalanche consensus protocol, the network can achieve sub-second finality and process thousands of transactions per second (TPS).\n\nAvalanche supports the creation of customized blockchains and decentralized applications (dApps) through its unique architecture, which includes three integrated blockchains: X-Chain (exchange), C-Chain (contracts), and P-Chain (platform). This separation allows for specialized functions and enhanced performance.\n\nThe native token, AVAX, is used for transaction fees, staking, and network governance. Avalanche's ability to handle high throughput with low latency and fees makes it an attractive platform for developers and enterprises looking to build scalable dApps and financial applications.\n\nMainnet Launched: September 2020\nFounder: Ava Labs (led by Emin Gün Sirer)\nConsensus Mechanism: Avalanche Consensus (Proof of Stake)\nTime to Finality: Sub-second\nTPS: 4,500+ transactions per second\nEVM Compatible: Yes\nToken Ticker: AVAX\nProgramming Language: Solidity\nAverage Network Fees: Check on Avalanche (https://docs.avax.network/reference/standards/guides/txn-fees)\n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717741921262?alt=media&token=a64f92e3-b097-4c5e-9dde-1e2a6dbb9c11",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717741923532?alt=media&token=a6ec4184-bb01-4b82-9e51-532bd3d6c656",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476e",
+          "name": "Audited",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 19
+    },
+    {
+      "links": {
+        "twitter": "aptos",
+        "discord": "aptosnetwork",
+        "telegram": "aptos",
+        "linkedin": "aptos-foundation",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "UCUjwSbNWBMvpMMFRslZresQ",
+        "playstore": ""
+      },
+      "_id": "6662a5032f39d61df37f1e86",
+      "name": "Aptos",
+      "tldr": "Unrivaled Speed, Unprecedented Trust, and an Unstoppable Community. scalable and user-friendly blockchain designed to support the next wave of Web3 applications with high throughput and low fees.",
+      "overview": "Aptos is a new Layer 1 blockchain focused on delivering safety, scalability, and upgradability for decentralized applications.\nFounders and Founding Date: Founded by Mo Shaikh and Avery Ching, former Meta employees, in 2021.\nFunding: Aptos has raised substantial funding, including a $200 million round led by a16z, with participation from FTX Ventures and other prominent investors.\nConsensus Mechanism: Aptos uses a novel consensus mechanism called Block-STM, which optimizes parallel execution.\nPerformance Metrics:\nTransactions Per Second (TPS): Capable of over 160,000 TPS under optimal conditions.\nTime to Finality: Sub-second finality.\nStandout Features:\nAdvanced parallel execution model for high throughput.\nStrong focus on safety and upgradability.\nRobust developer tools and support.\n\nAptos is a next-generation Layer 1 blockchain focused on scalability, usability, and security. Launched in 2022 by a team of former Facebook engineers, Aptos aims to provide a robust platform for Web3 applications, leveraging advanced consensus mechanisms and innovative technologies.\n\nAptos can process thousands of transactions per second (TPS), thanks to its efficient parallel execution engine and optimized data structures. This high performance is crucial for supporting a wide range of decentralized applications (dApps) and services with minimal latency and cost.\n\nThe native token, APT, is used for transaction fees, staking, and governance within the network. Aptos's commitment to developer experience and network efficiency makes it a strong contender in the evolving blockchain landscape, offering a scalable solution for the growing demands of the Web3 ecosystem.\n\nMainnet Launched: 2022\nFounder: Former Facebook Engineers\nConsensus Mechanism: Proof of Stake (PoS)\nTime to Finality: Sub-second\nTPS: Thousands of transactions per second\nEVM Compatible: No\nToken Ticker: APT\nProgramming Language: Move\nAverage Network Fees: Check on Aptos (https://aptos.dev/concepts/gas-txn-fee/)\n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717740715404?alt=media&token=cd9a5cd5-ba87-4249-947b-ed6e947617df",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717740719411?alt=media&token=84d7aa9f-9502-4360-b8c4-68e482c6804d",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 13
+    },
+    {
+      "links": {
+        "twitter": "",
+        "discord": "",
+        "telegram": "",
+        "linkedin": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "youtube": "",
+        "playstore": ""
+      },
+      "_id": "666092b7d64d5276baa7fe5c",
+      "name": "Ethereum",
+      "tldr": "The first smart contract platform that enabled decentralized applications (dApps) and decentralized finance (DeFi), forming the backbone of the blockchain ecosystem.",
+      "overview": "Ethereum, launched on July 30, 2015, by Vitalik Buterin and team, revolutionized the blockchain space by introducing smart contracts. These programmable contracts allow developers to create decentralized applications (dApps) that run autonomously on the blockchain.\n\nEthereum transitioned from a PoW consensus mechanism to Proof of Stake (PoS) with the Ethereum 2.0 upgrade, significantly improving its scalability and energy efficiency. This upgrade has enabled Ethereum to process more transactions per second (TPS) and reduce network congestion.\n\nEther (ETH), Ethereum's native token, is used for transaction fees (often referred to as \"gas\"), staking, and governance. Despite facing competition from newer blockchains, Ethereum remains a dominant force due to its vast developer community, extensive dApp ecosystem, and continuous innovation.\n\n\nMainnet Launched: July 30, 2015\nFounder: Vitalik Buterin\nConsensus Mechanism: Proof of Stake (PoS)\nTime to Finality: 6 minutes (12 blocks)\nTPS: 30 transactions per second (with Layer 2 solutions reaching higher)\nEVM Compatible: Yes\nToken Ticker: ETH\nProgramming Language: Solidity\nAverage Network Fees: Check on CryptoFess.info\n",
+      "logo": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717605027673?alt=media&token=dcc0af66-d56b-4b9e-a915-5d0627ad668d",
+      "coverImg": "https://firebasestorage.googleapis.com/v0/b/web3-108f4.appspot.com/o/images%2F1717605031095?alt=media&token=99bf1092-488c-486d-8edb-b2e7d43ce79f",
+      "screenshots": [],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476b",
+          "name": "PoS",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 26
+    },
+    {
+      "links": {
+        "twitter": "SuiNetwork",
+        "discord": "https://discord.com/invite/sui",
+        "youtube": "UCI7pCUVxSLcndVhPpZOwZgg",
+        "websiteLink": "https://sui.io/"
+      },
+      "_id": "665e665b7a3c91f6b042f546",
+      "name": "Sui",
+      "tldr": "high-performance blockchain optimized for low-latency and high-throughput decentralized applications, providing fast and secure transactions",
+      "overview": "Sui is an innovative non-EMV Layer 1 blockchain designed to deliver high-speed and low-latency performance for decentralized applications (dApps). Launched in 2022 by Mysten Labs, Sui uses advanced consensus mechanisms and state-of-the-art technology to achieve remarkable scalability and efficiency.\n\nWith a focus on parallel transaction execution, Sui can handle thousands of transactions per second (TPS), making it an ideal platform for developers seeking to build high-performance dApps. Its unique approach to consensus and data structures ensures both security and speed, addressing many limitations of earlier blockchains.\n\nThe native token, SUI, is used for transaction fees, staking, and network governance. Sui's robust architecture and developer-friendly environment position it as a promising player in the blockchain space, catering to the needs of next-generation decentralized applications.\n\n\nMainnet Launched: 2022\nFounder: Mysten Labs\nConsensus Mechanism: Advanced Proof of Stake (PoS)\nTime to Finality: Sub-second\nTPS: Thousands of transactions per second\nEVM Compatible: No\nToken Ticker: SUI\nProgramming Language: Move\nAverage Network Fees: Check on Sui",
+      "logo": "https://pbs.twimg.com/profile_images/1789094127331880962/FsmlJYoK_400x400.jpg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/1428872926363754497/1715388255/1500x500",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/hqHKRrvwv0-dDUlleWHJsemJL-H4no1LZ5M8d8bDXdyVaA41pwTPL64DCO6WaVT2n5Vf=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/mPOkFIefcmIlC68x2AoS6CivMQozh94-5TwfAsZI7gUQtzyhH21P1y8ygRKj9mlJv8he=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/HvvnGprkBBCNOasNtFdK7vnYITD9S2Fh276ozFB3LyQXtP8exEYOmD1J5yDUbrtaeYNo=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/keMSC8NNn5bC0wxUXfcJHojGz8gBD3ETXc22XAULe9YI24OTnqFVBW01YvCaPsKkhUIk=w2560-h1440-rw"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 19
+    },
+    {
+      "links": {
+        "twitter": "Bitcoin",
+        "websiteLink": "https://bitcoin.org/bitcoin.pdf"
+      },
+      "_id": "665b67f434cdb2136e424784",
+      "name": "Bitcoin",
+      "tldr": "The original cryptocurrency and the very first Layer 1, Bitcoin is the leading decentralized blockchain for store of value transactions, trusted by millions globally.",
+      "overview": "Bitcoin Layer 1 is the OG (original gangster) of cryptocurrencies. Its the very first layer 1, its where all the action started. Back in 2008 when a mysterious person (or group) named Satoshi Nakamoto created Bitcoin. No one knows for sure who they are, but they kicked off a revolution in digital money. Mainnet was launched 9th January 2009.Back in the early days, you could mine Bitcoin using just your regular computer. In those days people had no idea the value a single Bitcoin would now demand. Hence the famous Bitcoin Pizza transaction where two Pappa Johns pizzas were traded for 10,000 Bitcoins. There were less people mining Bitcoin so more concentration in the winners of the block rewards. But now, mining Bitcoin requires serious hardware and lots of electricity. Bitcoin or “BTC” as its ticker name has 8 decimal places and like $1 has 100 cents, 1 BTC has 100 million “Satoshis”. Plus with its very limited supply of 21 million, which can never be increased and are distributed to the participants of the network. This system is called Proof of Work, where miners solve complex puzzles to add transactions to the blockchain. Each block takes about 10 minutes to mine and can hold around 2,000 transactions. Which makes the Bitcoin network is super secure, but its not one of the fastest blockchains. Newer layer 1 blockchains can handle more transactions per second. Still, Bitcoin remains the king of the crypto world, paving the way for the entire industry as we know it.",
+      "logo": "https://pbs.twimg.com/profile_images/421692600446619648/dWAbC2wg_400x400.jpeg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/357312062/1566845268/1500x500",
+      "screenshots": [
+        "https://akm-img-a-in.tosshub.com/businesstoday/styles/medium_crop_simple/public/images/story/202205/fsp0lpyxsaejona.jpg?itok=3wxezI6X",
+        "https://pbs.twimg.com/media/GIQMDJCaQAAeBCM?format=png&name=medium"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424741",
+          "name": "Layer 1",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476a",
+          "name": "PoW",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 26
+    },
+    {
+      "links": {
+        "twitter": "coinbase",
+        "discord": "https://discord.gg/coinbase",
+        "youtube": "UCofTOFX4QuhT8OY-3-fFRFw",
+        "websiteLink": "https://www.coinbase.com/"
+      },
+      "_id": "665b67f434cdb2136e424783",
+      "name": "Coinbase",
+      "tldr": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency like Bitcoin, Ethereum, and more.",
+      "overview": "Coinbase, founded in 2012 by Brian Armstrong and Fred Ehrsam, is a leading cryptocurrency exchange known for its user-friendly interface and robust security measures. The platform caters to both beginners and experienced traders, offering a range of services, including buying, selling, and storing cryptocurrencies. Coinbase also provides educational resources to help users learn about blockchain technology and digital assets.",
+      "logo": "https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png",
+      "coverImg": "https://pbs.twimg.com/profile_banners/574032254/1713974654/1500x500",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/sn_PXXEaqoD8drT-18qvW_-qmIJGjpDMSDGJWpYvFoXtXOrJfPWk6tsdvt5xSYw9f8A=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/fc0OV3o2MosGa6IZwsIGNtDkxxmBTv2h_GsIzEiAXW5Hfx8qqZ1LWTaoaLKUGptDaA=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/6duSw3vMly0jXvk0sU1GFXAj371OOp4Jmjoo9Gvw73cZ1jMDZlnLmfRRSi_ZDkZ-Mws=w2560-h1440-rw"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424745",
+          "name": "Centralized Exchange (CEX)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424772",
+          "name": "Trading",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424769",
+          "name": "Mobile App",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 13
+    },
+    {
+      "links": {
+        "twitter": "binance",
+        "discord": "https://discord.gg/binance",
+        "youtube": "UCfYw6dhiwGBJQY_-Jcs8ozw",
+        "websiteLink": "https://www.binance.com/"
+      },
+      "_id": "665b67f434cdb2136e424782",
+      "name": "Binance",
+      "tldr": "Binance is one of the largest cryptocurrency exchanges globally, offering a wide range of trading options and services for digital assets.",
+      "overview": "Binance, founded in 2017 by Changpeng Zhao, is a leading cryptocurrency exchange known for its extensive selection of cryptocurrencies, high liquidity, and advanced trading features. The platform supports various financial services, including spot trading, futures trading, staking, and savings products. Binance also has its own blockchain, Binance Smart Chain (BSC), which supports decentralized applications (dApps) and smart contracts.",
+      "logo": "https://pbs.twimg.com/profile_images/1744289390736613378/alcfxov3_400x400.jpg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/877807935493033984/1717062452/1500x500",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/K_VwmHpXsBXmmrDZYcbw-U23jBfOUZrLcWnJba-35gg6Fllf9QXnlitxzcecDoKULC0=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/2YkIC7zmLUcBxnrBaU1OTWyjgRIvjlaaC0gLPsWAhNDR2MILBK5tMpwvBEcVXnbJyg=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/3PtXDllTKWY6RS5GQMErJhn6mx4XHN9_CR55Glk5p2PaLo2ljvBFS7Jznp2NmYb_fKmg=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/uVyhsa6AdglwCc7MWNGMWwf6HtT9Yivju40vdcQ-w3u4H5oB6pMEJK8sIehClGBCGq4s=w2560-h1440-rw"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424745",
+          "name": "Centralized Exchange (CEX)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424772",
+          "name": "Trading",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424769",
+          "name": "Mobile App",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 1
+    },
+    {
+      "links": {
+        "twitter": "okx",
+        "discord": "https://discord.gg/e6EyvM5QwM",
+        "youtube": "OKXCryptoExchange",
+        "websiteLink": "https://www.okx.com/"
+      },
+      "_id": "665b67f434cdb2136e424781",
+      "name": "OKX",
+      "tldr": "Faster, better, stronger than your average crypto exchange",
+      "logo": "https://pbs.twimg.com/profile_images/1603448806879772672/Pa4h6HHS_400x400.jpg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/867617849208037377/1714409885/1500x500",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/oG-2E2Wo8rouejudwO_N0272eq9q6PVRoXS6arEiXHlbxfp6G4CO3CrdjpxJ3YfmXtI=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/obYM5b0D7kce_ab5AUTZpO4SF0fjTDh5yifuEAw2E4UbOWOeKakWWUAbsAZ5ao6K0Q=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/FeR6G9-O1ehki8DRHg9lMnIwIgu0BFSyR8gwjZLdiPqh8ufmLlSPFjUiiokZzSOjFA=w2560-h1440-rw",
+        "https://play-lh.googleusercontent.com/fNXujbx-SZNe9VxEozBiEThsTZbEnI75k8lcDQ8j9zEsNvc6sckA0JFrGjgbstgUTg=w2560-h1440-rw"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424745",
+          "name": "Centralized Exchange (CEX)",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424772",
+          "name": "Trading",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e424769",
+          "name": "Mobile App",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 7
+    },
+    {
+      "links": {
+        "twitter": "TheSandboxGame",
+        "discord": "https://discord.gg/thesandboxgame",
+        "youtube": "UCzv1t7voB-bxMmXLysT4h0w",
+        "websiteLink": "https://www.sandbox.game/en/"
+      },
+      "_id": "665b67f434cdb2136e424780",
+      "name": "Sandbox",
+      "tldr": "Sandbox is a virtual gaming world where you can build, own, and monetize your gaming experiences.",
+      "overview": "Sandbox is a pioneering virtual gaming platform and decentralized metaverse that aims to revolutionize the gaming industry through blockchain technology. Launched by Animoca Brands in 2011, Sandbox provides users with the tools and resources to create, play, and monetize their own virtual experiences within a vibrant and immersive virtual world. Sandbox also features a robust social and multiplayer gaming experience, allowing players to collaborate, compete, and interact with one another in shared virtual spaces.",
+      "logo": "https://pbs.twimg.com/profile_images/1675843993190506496/HeGzewKw_400x400.jpg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/347831597/1690383540/1500x500",
+      "screenshots": [
+        "https://www.sandbox.game/screenshot1.png",
+        "https://www.sandbox.game/screenshot2.png"
+      ],
+      "coreCategories": [],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e424768",
+          "name": "NFT",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 0
+    },
+    {
+      "links": {
+        "twitter": "decentraland",
+        "discord": "https://dcl.gg/discord",
+        "youtube": "UCLXcTgzr05cFZaN972nuEXw",
+        "websiteLink": "https://decentraland.org/"
+      },
+      "_id": "665b67f434cdb2136e42477f",
+      "name": "Decentraland",
+      "tldr": "Decentraland is a decentralized virtual world where users can buy, sell, and trade virtual real estate and in-world assets.",
+      "overview": "Decentraland now has an active marketplace for their in-world assets including; wearables and emotes for your avatar, land parcels, estates, names, and worlds which are separate from Genesis City and can be accessed via your custom dcl.eth domain name. The $MANA token is the native cryptocurrency and can be used to purchase items from the marketplace. A ICO for $MANA in 2017 raised over $24 million dollars. The LAND parcels are represented by ERC-721 tokens, and there are 90,000 that make up Genesis City.",
+      "logo": "https://pbs.twimg.com/profile_images/1780747717679136768/PFJDrXQY_400x400.jpg",
+      "coverImg": "https://pbs.twimg.com/profile_banners/3291830170/1681476575/1500x500",
+      "screenshots": [
+        "https://decentraland.org/screenshot1.png",
+        "https://decentraland.org/screenshot2.png"
+      ],
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424742",
+          "name": "Metaverse",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e424768",
+          "name": "NFT",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476d",
+          "name": "Doxxed Team",
+          "__v": 0
+        },
+        {
+          "_id": "665b67f334cdb2136e42476c",
+          "name": "Has Token",
+          "__v": 0
+        }
+      ],
+      "__v": 0,
+      "upvotes": 9
+    }
+  ],
+  "categories": [
+    {
+      "_id": "665b67f334cdb2136e424741",
+      "name": "Layer 1",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424742",
+      "name": "Metaverse",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424743",
+      "name": "Gaming",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424745",
+      "name": "Centralized Exchange (CEX)",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424747",
+      "name": "Hardware Wallet",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424748",
+      "name": "Liquid Staking",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42474a",
+      "name": "Software Wallet",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42474b",
+      "name": "Social",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42474c",
+      "name": "Marketplace",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42474e",
+      "name": "Real World Assets (RWA)",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42474f",
+      "name": "Infrastructure",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424750",
+      "name": "Token Aggregator",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424751",
+      "name": "Perps",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424752",
+      "name": "Naming Service",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424744",
+      "name": "Decentalized Exchange (DEX)",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424746",
+      "name": "Layer 2",
+      "__v": 0
+    }
+  ],
+  "tags": [
+    {
+      "_id": "665b67f334cdb2136e424769",
+      "name": "Mobile App",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476c",
+      "name": "Has Token",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476a",
+      "name": "PoW",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476b",
+      "name": "PoS",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424768",
+      "name": "NFT",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424771",
+      "name": "Multichain",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424772",
+      "name": "Trading",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476f",
+      "name": "Dapp",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e424770",
+      "name": "Hardware",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476e",
+      "name": "Audited",
+      "__v": 0
+    },
+    {
+      "_id": "665b67f334cdb2136e42476d",
+      "name": "Doxxed Team",
+      "__v": 0
+    }
+  ],
+  "sponsoredListings": [
+    {
+      "links": {
+        "websiteLink": "https://www.bitcoin.com/"
+      },
+      "screenshots": [],
+      "_id": "665fec3659bcd6ea0e502e71",
+      "name": "Send is future cash",
+      "overview": "Instant payments using a smart wallet to easily onboard users into the world of crypto",
+      "tldr": "Instant payments using a smart wallet to easily onboard users into the world of crypto",
+      "logo": "https://pbs.twimg.com/profile_images/1778157815577899008/oEabfTv1_400x400.png",
+      "coverImage": "https://pbs.twimg.com/profile_banners/2238921/1712781098/1500x500",
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424742",
+          "name": "Metaverse",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e424768",
+          "name": "NFT",
+          "__v": 0
+        }
+      ]
+    },
+    {
+      "links": {
+        "websiteLink": "https://www.teller.org/"
+      },
+      "screenshots": [],
+      "_id": "6662ac1999010fe2d35b0dad",
+      "name": "Tellr Labs",
+      "overview": "Sharpening Content Swords | Full Service Content Marketing Strategy Firm",
+      "tldr": "Sharpening Content Swords | Full Service Content Marketing Strategy Firm",
+      "logo": "https://pbs.twimg.com/profile_images/1770276944686592000/6lV8GD5i_400x400.jpg",
+      "coverImage": "https://pbs.twimg.com/profile_banners/3291830170/1681476575/1500x500",
+      "coreCategories": [
+        {
+          "_id": "665b67f334cdb2136e424742",
+          "name": "Metaverse",
+          "__v": 0
+        }
+      ],
+      "tags": [
+        {
+          "_id": "665b67f334cdb2136e424768",
+          "name": "NFT",
+          "__v": 0
+        }
+      ]
+    }
+  ]
+}

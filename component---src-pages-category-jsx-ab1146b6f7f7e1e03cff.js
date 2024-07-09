@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_web3_product_hunt=self.webpackChunkgatsby_web3_product_hunt||[]).push([[225],{569:function(e,t,s){s.r(t);var a=s(6540);t.default=()=>a.createElement("p",{className:"md:text-3xl flex justify-center items-center h-full m-auto"},"Here we will list ",a.createElement("span",{className:"font-extrabold text-red-500"}," Demo ")," projects")}}]);
+//# sourceMappingURL=component---src-pages-category-jsx-ab1146b6f7f7e1e03cff.js.map
